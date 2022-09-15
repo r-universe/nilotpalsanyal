@@ -8,3 +8,8 @@
 	url = https://github.com/nilotpalsanyal/bhmsmafmri
 	shallow = true
 	registered = true
+[submodule "GWASinlps"]
+	path = GWASinlps
+	url = https://github.com/nilotpalsanyal/gwasinlps
+	shallow = true
+	registered = true
