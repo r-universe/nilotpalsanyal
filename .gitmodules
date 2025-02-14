@@ -8,3 +8,6 @@
 [submodule "GWASinlps"]
 	path = GWASinlps
 	url = https://github.com/nilotpalsanyal/gwasinlps
+[submodule "NLPwavelet"]
+	path = NLPwavelet
+	url = https://github.com/nilotpalsanyal/nlpwavelet
