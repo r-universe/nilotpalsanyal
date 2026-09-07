@@ -11,3 +11,6 @@
 [submodule "NLPwavelet"]
 	path = NLPwavelet
 	url = https://github.com/nilotpalsanyal/nlpwavelet
+[submodule "S3VS"]
+	path = S3VS
+	url = https://github.com/nilotpalsanyal/s3vs
